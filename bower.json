@@ -1,0 +1,13 @@
+{
+  "name": "MiessAgenda",
+  "authors": [
+    "Jaap van der Kreeft <jaap@toxus.nl>"
+  ],
+  "description": "",
+  "main": "www/index.html",
+  "moduleType": [],
+  "directory" : "www/lib",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

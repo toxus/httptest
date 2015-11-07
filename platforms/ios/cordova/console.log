@@ -1,0 +1,14 @@
+2015-11-07 20:29:45.630 Miess Aagenda[7178:3124910] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jaap/Library/Developer/CoreSimulator/Devices/58B479EC-18FE-47F1-90C1-AA1858738926/data/Containers/Data/Application/2F22DC9C-5054-4AF3-95B3-45D8F12D7350/Library/Cookies/nl.toxus.miessagenda2.binarycookies
+2015-11-07 20:29:46.046 Miess Aagenda[7178:3124910] Apache Cordova native platform version 3.9.2 is starting.
+2015-11-07 20:29:46.046 Miess Aagenda[7178:3124910] Multi-tasking -> Device: YES, App: YES
+2015-11-07 20:29:46.126 Miess Aagenda[7178:3124910] Unlimited access to network resources
+2015-11-07 20:29:46.135 Miess Aagenda[7178:3124910] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-11-07 20:29:47.963 Miess Aagenda[7178:3124910] Resetting plugins due to page load.
+2015-11-07 20:29:49.943 Miess Aagenda[7178:3124910] Finished load of: file:///Users/jaap/Library/Developer/CoreSimulator/Devices/58B479EC-18FE-47F1-90C1-AA1858738926/data/Containers/Bundle/Application/BAA2495E-5A8B-4EAB-905A-A580D5445B02/Miess%20Aagenda.app/www/index.html#/
